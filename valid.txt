@@ -1,0 +1,11 @@
+BOS O O
+The O O
+cat O O
+is O O
+on O O
+the O O
+mat O O
+. O O
+ O O
+EOS O O
+
